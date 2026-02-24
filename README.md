@@ -5,9 +5,8 @@ This project is great for beginners who want to practice DOM manipulation, game 
 
 ---
 
-##👁️Preview
-
-![Game Preview](images/preview.png)
+## 📸 Preview
+![Preview](images/privew.png)
 
 ---
 
