@@ -5,11 +5,17 @@ This project is great for beginners who want to practice DOM manipulation, game 
 
 ---
 
+##👁️Preview
+
+![Game Preview](images/preview.png)
+
+---
+
 ## 🎥 Demo Video
 
 You can watch the full walkthrough and demo on YouTube:
 
-👉 [https://youtu.be/lEPMi5wbgMs?si=swARncblKSrbqDCt)
+👉 [https://youtu.be/lEPMi5wbgMs?si=k8s463BF1NRc-QAr](https://youtu.be/lEPMi5wbgMs?si=k8s463BF1NRc-QAr)
 
 ---
 
