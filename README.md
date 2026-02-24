@@ -5,11 +5,6 @@ This project is great for beginners who want to practice DOM manipulation, game 
 
 ---
 
-## 📸 Preview
-![Preview](images/privew.png)
-
----
-
 ## 🎥 Demo Video
 
 You can watch the full walkthrough and demo on YouTube:
@@ -44,6 +39,11 @@ cd rock-paper-scissors
 ```
 
 Then open `index.html` in your browser.
+
+---
+
+## 📸 Preview
+![Preview](images/privew.png)
 
 ---
 
