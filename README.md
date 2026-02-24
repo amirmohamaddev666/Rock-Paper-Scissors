@@ -34,7 +34,7 @@ You can watch the full walkthrough and demo on YouTube:
 To run this project locally:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rock-paper-scissors.git
+git clone https://github.com/amirmohamaddev666/Rock-Paper-Scissors.git
 cd rock-paper-scissors
 ```
 
